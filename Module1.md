@@ -60,22 +60,22 @@ Physical and logical input devices
 ![Screenshot (159)](https://user-images.githubusercontent.com/65703138/145436466-01d315f4-cecb-487e-bf62-1e89b2e4a03e.png)
 ![Screenshot (160)](https://user-images.githubusercontent.com/65703138/145436481-472f1bf7-bcba-4237-ac57-804edf3095f6.png)
 ![Screenshot (161)](https://user-images.githubusercontent.com/65703138/145436489-9ca868f4-5e2d-49f6-a263-a2e0573e76fe.png)
-![Uploading Screenshot (162).png…]()
-![Screenshot (163)](https://user-images.githubusercontent.com/65703138/145436569-0fc67e82-0d0d-4475-af7e-55ca1f98ea85.png)
-![Uploading Screenshot (164).png…]()
-![Uploading Screenshot (165).png…]()
-![Uploading Screenshot (166).png…]()
-![Uploading Screenshot (167).png…]()
+![Screenshot (162)](https://user-images.githubusercontent.com/65703138/145438765-3e0e8253-3ce0-4545-8209-07a55296174d.png)
 
-![Uploading Screenshot (168).png…]()
-![Uploading Screenshot (169).png…]()
-![Uploading Screenshot (170).png…]()
-![Uploading Screenshot (171).png…]()
+![Screenshot (163)](https://user-images.githubusercontent.com/65703138/145436569-0fc67e82-0d0d-4475-af7e-55ca1f98ea85.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/65703138/145438849-0dc98212-344e-42f5-838f-7f2e82f6b41c.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/65703138/145438860-45855fb5-4fa8-4188-ac86-a87fbf3e2397.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/65703138/145438864-0dcaf187-9280-4c80-b630-eb3124f625c3.png)
+![Uploading Screenshot (167).png…]()
+![Screenshot (168)](https://user-images.githubusercontent.com/65703138/145438885-e54eeeba-b89e-4138-8a4b-d7a15ed13c39.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/65703138/145438893-397dabc6-efa5-4a12-b06b-3b979a94dbb4.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/65703138/145438958-db499221-a176-462c-a5fa-c4d1d221b8b9.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/65703138/145438967-4617921c-990f-4988-b5ce-b1f8d36acf6b.png)
+
+
 
 Simple color models
-![Uploading Screenshot (151).png…]()
+![Screenshot (151)](https://user-images.githubusercontent.com/65703138/145439012-f436a8aa-d288-4533-982b-2c9f06d15a7b.png)
 
-![Uploading Screenshot (153).png…]()
-![Uploading Screenshot (154).png…]()
-![Uploading Screenshot (155).png…]()
+
 
